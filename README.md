@@ -1,4 +1,6 @@
 # 💫 About Me:
+I am Fous Bin Taher Tanjim.
+Iam a CSE department Student.
 I am Currently working on flutter<br>
 
 
