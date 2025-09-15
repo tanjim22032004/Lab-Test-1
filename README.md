@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Currently working o flutter<br>
+I am Currently working on flutter<br>
 
 
 ## 🌐 Socials:
